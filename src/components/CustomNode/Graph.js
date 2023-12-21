@@ -10,7 +10,7 @@ import "reactflow/dist/style.css";
 
 import ColorSelectorNode from "./ColorSelectorNode";
 
-import "../index.css";
+import "../../index.css";
 
 const initBgColor = "#1A192B";
 

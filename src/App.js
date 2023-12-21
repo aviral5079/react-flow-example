@@ -1,10 +1,12 @@
 import "./App.css";
-import CustomNodeFlow from "./components/Graph";
+import CustomNodeFlow from "./components/CustomNode/Graph";
+import UpdateNode from "./components/UpdateNode/Graph";
 
 function App() {
   return (
     <div className="App">
-      <CustomNodeFlow />
+      {/* <CustomNodeFlow /> */}
+      <UpdateNode />
     </div>
   );
 }
