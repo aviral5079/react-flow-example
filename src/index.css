@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-.react-flow__node-selectorNode {
+.react-flow__node-customNode {
   font-size: 12px;
   background: #eee;
   border: 1px solid #555;

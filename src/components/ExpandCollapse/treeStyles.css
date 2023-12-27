@@ -1,0 +1,25 @@
+* {
+  content: border-box;
+}
+
+.node {
+  /* border: 8px solid green; */
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.node-heading {
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.treeNode {
+  /* border: 8px solid blue; */
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+}
